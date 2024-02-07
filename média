@@ -1,0 +1,10 @@
+let aluno1 = 7;
+let aluno2 = 10;
+var media = 0;
+media = (aluno1 + aluno2)/2;
+if(media>=7){
+  console.log("Passou", media);
+  }
+else{
+  console.log("reprovado");
+  }
